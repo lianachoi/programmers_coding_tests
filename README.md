@@ -15,3 +15,9 @@ Phone_book.java
 
 Scoville.java
 힙(Heap)> 더 맵게
+
+Mock_test.java
+완전탐색> 모의고사
+
+PE_clothes.java
+탐욕법(Greedy)> 체육복
