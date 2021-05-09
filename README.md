@@ -21,3 +21,13 @@ Mock_test.java
 
 PE_clothes.java
 탐욕법(Greedy)> 체육복
+
+
+NumberGame.java
+2021 카카오 채용연계형 인턴십 for Tech Developers - 1 숫자 게임
+
+Distancing.java
+2021 카카오 채용연계형 인턴십 for Tech Developers - 2.거리두기
+
+Table_SDR.java
+2021 카카오 채용연계형 인턴십 for Tech Developers - 3.리스트 관리 ( 효율성 테스트x )
