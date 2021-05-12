@@ -61,7 +61,7 @@ public class BJ5214 {
 			bw.write("-1");			
 		}
 		bw.close();
-		br.close();
+		br.close(); 
 	}
 }
 
