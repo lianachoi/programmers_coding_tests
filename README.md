@@ -31,3 +31,9 @@ Distancing.java
 
 Table_SDR.java
 2021 카카오 채용연계형 인턴십 for Tech Developers - 3.리스트 관리 ( 효율성 테스트x )
+
+BJ15649_NandM_1
+백트래킹, 순열 nPm을 구하는 문제
+
+BJ15650_NandM_2.java
+백트래킹, 조합 nCm을 구하는 문제
