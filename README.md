@@ -54,3 +54,6 @@ __BJ15656_NandM_7.java__
 
 __BJ15657_NandM_8.java__   
 숫자가 주어질때 중복조합
+
+__BJ21611_simulation.java__   
+BJ21611 마법사 상어와 블리자드
